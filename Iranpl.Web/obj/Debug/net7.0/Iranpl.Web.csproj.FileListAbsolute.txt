@@ -1,0 +1,340 @@
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.staticwebassets.runtime.json
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.exe
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.deps.json
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.runtimeconfig.json
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.pdb
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\AngleSharp.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\AngleSharp.Css.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\HtmlSanitizer.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\System.Collections.Immutable.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Domain.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Ioc.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Domain.pdb
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Ioc.pdb
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.AssemblyReference.cache
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.AssemblyInfoInputs.cache
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.AssemblyInfo.cs
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.CoreCompileInputs.cache
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.RazorAssemblyInfo.cache
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.RazorAssemblyInfo.cs
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.Iranpl.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Iranpl.Web.props
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Iranpl.Web.props
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Iranpl.Web.props
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\scopedcss\bundle\Iranpl.Web.styles.css
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\scopedcss\projectbundle\Iranpl.Web.bundle.scp.css
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.CopyComplete
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\refint\Iranpl.Web.dll
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.pdb
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.genruntimeconfig.cache
+C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.Web\obj\Debug\net7.0\ref\Iranpl.Web.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.staticwebassets.runtime.json
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.exe
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.deps.json
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.runtimeconfig.json
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.pdb
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\AngleSharp.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\AngleSharp.Css.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\HtmlSanitizer.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\System.Collections.Immutable.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Domain.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Ioc.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Domain.pdb
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\bin\Debug\net7.0\Iranpl.Ioc.pdb
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.AssemblyReference.cache
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.AssemblyInfoInputs.cache
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.AssemblyInfo.cs
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.CoreCompileInputs.cache
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.RazorAssemblyInfo.cache
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.RazorAssemblyInfo.cs
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.Iranpl.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Iranpl.Web.props
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Iranpl.Web.props
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Iranpl.Web.props
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\scopedcss\bundle\Iranpl.Web.styles.css
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\scopedcss\projectbundle\Iranpl.Web.bundle.scp.css
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.CopyComplete
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\refint\Iranpl.Web.dll
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.pdb
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.genruntimeconfig.cache
+C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.Web\obj\Debug\net7.0\ref\Iranpl.Web.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\appsettings.Development.json
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\appsettings.json
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.staticwebassets.runtime.json
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.exe
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.deps.json
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.runtimeconfig.json
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.pdb
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\AngleSharp.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\AngleSharp.Css.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\AutoMapper.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Azure.Core.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Azure.Identity.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\HtmlSanitizer.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\System.Collections.Immutable.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\System.Memory.Data.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Domain.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Ioc.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Domain.pdb
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Ioc.pdb
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.AssemblyReference.cache
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.AssemblyInfoInputs.cache
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.AssemblyInfo.cs
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.CoreCompileInputs.cache
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.RazorAssemblyInfo.cache
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.RazorAssemblyInfo.cs
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\staticwebassets.build.json
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\staticwebassets.development.json
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.Iranpl.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Iranpl.Web.props
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Iranpl.Web.props
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Iranpl.Web.props
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\staticwebassets.pack.json
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\scopedcss\bundle\Iranpl.Web.styles.css
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\scopedcss\projectbundle\Iranpl.Web.bundle.scp.css
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.CopyComplete
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.dll
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\refint\Iranpl.Web.dll
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.pdb
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.genruntimeconfig.cache
+E:\project\Iranpl - Copy\Iranpl.Web\obj\Debug\net7.0\ref\Iranpl.Web.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Infrastructure.dll
+E:\project\Iranpl - Copy\Iranpl.Web\bin\Debug\net7.0\Iranpl.Infrastructure.pdb
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\appsettings.Development.json
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\appsettings.json
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.staticwebassets.runtime.json
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.exe
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.deps.json
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.runtimeconfig.json
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.pdb
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\AngleSharp.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\AngleSharp.Css.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\AutoMapper.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Azure.Core.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Azure.Identity.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\HtmlSanitizer.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\System.Collections.Immutable.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\System.Memory.Data.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Domain.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Infrastructure.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Ioc.dll
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Domain.pdb
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Ioc.pdb
+E:\project\Iranpl_developed\Iranpl.Web\bin\Debug\net7.0\Iranpl.Infrastructure.pdb
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.AssemblyReference.cache
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.AssemblyInfoInputs.cache
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.AssemblyInfo.cs
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.CoreCompileInputs.cache
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.RazorAssemblyInfo.cache
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.RazorAssemblyInfo.cs
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\staticwebassets.build.json
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\staticwebassets.development.json
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.Iranpl.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Iranpl.Web.props
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Iranpl.Web.props
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Iranpl.Web.props
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\staticwebassets.pack.json
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\scopedcss\bundle\Iranpl.Web.styles.css
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\scopedcss\projectbundle\Iranpl.Web.bundle.scp.css
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.CopyComplete
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.dll
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\refint\Iranpl.Web.dll
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.pdb
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.genruntimeconfig.cache
+E:\project\Iranpl_developed\Iranpl.Web\obj\Debug\net7.0\ref\Iranpl.Web.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\appsettings.Development.json
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\appsettings.json
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.staticwebassets.runtime.json
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.exe
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.deps.json
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.runtimeconfig.json
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Web.pdb
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\AngleSharp.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\AngleSharp.Css.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\AutoMapper.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Azure.Core.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Azure.Identity.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\HtmlSanitizer.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\System.Collections.Immutable.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\System.Memory.Data.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Domain.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Infrastructure.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Ioc.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Domain.pdb
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Ioc.pdb
+E:\project\Iranpl_developed_part2\Iranpl.Web\bin\Debug\net7.0\Iranpl.Infrastructure.pdb
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.AssemblyReference.cache
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.AssemblyInfoInputs.cache
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.AssemblyInfo.cs
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.CoreCompileInputs.cache
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.RazorAssemblyInfo.cache
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.RazorAssemblyInfo.cs
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\staticwebassets.build.json
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\staticwebassets.development.json
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.Iranpl.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Iranpl.Web.props
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Iranpl.Web.props
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Iranpl.Web.props
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\staticwebassets.pack.json
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\scopedcss\bundle\Iranpl.Web.styles.css
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\scopedcss\projectbundle\Iranpl.Web.bundle.scp.css
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.csproj.CopyComplete
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\refint\Iranpl.Web.dll
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.pdb
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\Iranpl.Web.genruntimeconfig.cache
+E:\project\Iranpl_developed_part2\Iranpl.Web\obj\Debug\net7.0\ref\Iranpl.Web.dll
