@@ -77,3 +77,4 @@ E:\project\Iranpl_developed_part3\Iranpl.Domain\obj\Debug\net7.0\refint\Iranpl.D
 E:\project\Iranpl_developed_part3\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.pdb
 E:\project\Iranpl_developed_part3\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.genruntimeconfig.cache
 E:\project\Iranpl_developed_part3\Iranpl.Domain\obj\Debug\net7.0\ref\Iranpl.Domain.dll
+E:\project\Iranpl_developed_part3\Iranpl.Domain\obj\Debug\net7.0\Iranpl.Domain.sourcelink.json

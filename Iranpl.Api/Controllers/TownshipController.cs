@@ -13,6 +13,7 @@ namespace Iranpl.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [SwaggerTag("(اطلاعات شهرستان های ایران)")]
     public class TownshipController : ControllerBase
     {
         private readonly TownshipService _townshipService;
@@ -22,6 +23,10 @@ namespace Iranpl.Api.Controllers
         }
 
         //GET ALL TOWNSHIP
+        /// <summary>
+        /// دریافت فهرست همه شهرستان های ایران
+        /// </summary>
+        /// <returns>فهرست شهرستان ها</returns>
         [HttpGet]
         public IActionResult GetAllTownship()
         {
@@ -35,7 +40,12 @@ namespace Iranpl.Api.Controllers
             return Ok(new { Message = "Get All Townships", Date = townshipDto } );
         }
 
-
+        //GET TOWNSHIP BY ID
+        /// <summary>
+        ///  (Id) جستجوی شهرستان با
+        /// </summary>
+        ///
+        /// <returns>شهرستان با (Id) مورد نظر</returns>
         [HttpPost]
         [Route("{id}")] //localhost:port/api/township/{id}
         public IActionResult PostTownshipById([FromRoute] int id)
@@ -61,6 +71,11 @@ namespace Iranpl.Api.Controllers
         }
 
         //POST TOWNSHIPS BY STATE ID
+        /// <summary>
+        /// استان (Id) دریافت فهرست همه شهرستان های ایران با
+        /// </summary>
+        ///
+        /// <returns>شهرستان با (Id) مورد نظر</returns>
         [HttpPost("getTownshipsByStateId/{stateId}")]//localhost:port/api/township/GetTownshipsByStateId/{stateid}
         public IActionResult GetTownshipsByStateId([FromRoute] int stateId)
         {

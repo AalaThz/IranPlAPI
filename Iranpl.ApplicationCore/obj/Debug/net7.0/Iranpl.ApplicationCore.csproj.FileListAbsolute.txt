@@ -88,3 +88,4 @@ E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\refint\Iranpl.ApplicationCore.dll
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.pdb
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\ref\Iranpl.ApplicationCore.dll
+E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.sourcelink.json

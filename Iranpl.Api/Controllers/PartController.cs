@@ -6,11 +6,13 @@ using Iranpl.Infrastructure.Data.IranPlDbContext;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace Iranpl.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [SwaggerTag("(اطلاعات بخش های ایران)")]
     public class PartController : ControllerBase
     {
         private readonly PartService _partService;
@@ -21,6 +23,10 @@ namespace Iranpl.Api.Controllers
         }
 
         //GET ALL PART
+        /// <summary>
+        /// دریافت فهرست همه بخش های ایران
+        /// </summary>
+        /// <returns>فهرست بخش ها</returns>
         [HttpGet("getAll")]
         public IActionResult GetAllParts()
         {
@@ -36,6 +42,11 @@ namespace Iranpl.Api.Controllers
         }
 
         //GET PART BY ID
+        /// <summary>
+        ///  (Id) جستجوی بخش با
+        /// </summary>
+        ///
+        /// <returns>بخش با (Id) مورد نظر</returns>
         [HttpPost]
         [Route("{id}")] //localhost:port/api/part/{id}
         public IActionResult GetPartById([FromRoute] int id)
@@ -59,6 +70,12 @@ namespace Iranpl.Api.Controllers
             return Ok(new { Message = "The Part was founde" ,  Date = partDto });
         }
 
+        //Post Part By Township Id
+        /// <summary>
+        /// استان (Id) دریافت فهرست همه بخش های ایران با
+        /// </summary>
+        ///
+        /// <returns>بخش با (Id) مورد نظر</returns>
         [HttpPost("getPartByTownshipId/{townshipId}")] //localhost:port/api/township/getPartByTownshipId/{townshipId}
         public IActionResult GetPartsByTownshipId(int townshipId)
         {

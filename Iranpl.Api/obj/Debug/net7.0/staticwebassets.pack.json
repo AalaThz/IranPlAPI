@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\project\\Iranpl_developed_part3\\Iranpl.Api\\wwwroot\\assets\\swagger-style.css",
+      "PackagePath": "staticwebassets\\assets\\swagger-style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Iranpl.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Iranpl.Api.props",
+      "PackagePath": "build\\Iranpl.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Iranpl.Api.props",
+      "PackagePath": "buildMultiTargeting\\Iranpl.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Iranpl.Api.props",
+      "PackagePath": "buildTransitive\\Iranpl.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

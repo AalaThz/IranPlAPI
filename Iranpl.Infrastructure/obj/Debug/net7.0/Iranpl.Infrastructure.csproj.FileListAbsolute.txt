@@ -91,3 +91,4 @@ E:\project\Iranpl_developed_part3\Iranpl.Infrastructure\obj\Debug\net7.0\refint\
 E:\project\Iranpl_developed_part3\Iranpl.Infrastructure\obj\Debug\net7.0\Iranpl.Infrastructure.pdb
 E:\project\Iranpl_developed_part3\Iranpl.Infrastructure\obj\Debug\net7.0\Iranpl.Infrastructure.genruntimeconfig.cache
 E:\project\Iranpl_developed_part3\Iranpl.Infrastructure\obj\Debug\net7.0\ref\Iranpl.Infrastructure.dll
+E:\project\Iranpl_developed_part3\Iranpl.Infrastructure\obj\Debug\net7.0\Iranpl.Infrastructure.sourcelink.json

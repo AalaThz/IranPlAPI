@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iranpl.ApplicationCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79c7e06794df57620d99a8bc1fa01f28f849879c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f99637685705ef69c9582f415932ccdb430329d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iranpl.ApplicationCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iranpl.ApplicationCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

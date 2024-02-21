@@ -5,11 +5,15 @@ using Iranpl.Domain.Models.ApiModels;
 using Iranpl.Infrastructure.Data.IranPlDbContext;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace Iranpl.Api.Controllers
 {
     [Route("api/[controller]")] //localhost:port/api/state
     [ApiController]
+    [SwaggerTag(" (اطلاعات استان های ایران) ")]
+
+
     public class StateController : ControllerBase
     {
         private readonly StateService _stateService;
@@ -19,7 +23,10 @@ namespace Iranpl.Api.Controllers
             _stateService = stateService;
         }
 
-       
+        /// <summary>
+        /// دریافت فهرست همه استان های ایران
+        /// </summary>
+        /// <returns>فهرست استان ها</returns>
         //GET ALL STATE
         [HttpGet("getAll")]
         public IActionResult GetAllStates()
@@ -35,6 +42,11 @@ namespace Iranpl.Api.Controllers
         }
 
         //GET STATE BY ID
+        /// <summary>
+        ///  (Id) جستجوی استان با
+        /// </summary>
+        ///
+        /// <returns>استان با (Id) مورد نظر</returns>
         [HttpPost]
         [Route("{id}")] //localhost:port/api/state/{id}
         public IActionResult PostStateById([FromRoute] int id)

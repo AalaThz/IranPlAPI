@@ -1,4 +1,4 @@
-using Iranpl.Api.Controllers;
+﻿using Iranpl.Api.Controllers;
 using Iranpl.ApplicationCore.Services.Implementations;
 using Iranpl.ApplicationCore.Services.Intefaces;
 using Iranpl.Infrastructure.Data.IranPlDbContext;
@@ -6,6 +6,7 @@ using Iranpl.Infrastructure.Repositories;
 using Iranpl.Ioc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,26 +19,32 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ApiContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("ApiDatabase")));
 
+// Register the Swagger generator, defining 1 or more Swagger documents
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "Employee API",
+        Title = "IranPl API",
         Version = "v1",
-        Description = "An API to perform Employee operations",
-        TermsOfService = new Uri("https://example.com/terms"),
-        Contact = new OpenApiContact
-        {
-            Name = "John Walkner",
-            Email = "John.Walkner@gmail.com",
-            Url = new Uri("https://twitter.com/jwalkner"),
-        },
-        License = new OpenApiLicense
-        {
-            Name = "Employee API LICX",
-            Url = new Uri("https://example.com/license"),
-        }
+        Description = "اطلاعات مناطق جغرافیای ایران API ",
+        //TermsOfService = new Uri("https://example.com/terms"),
+        //Contact = new OpenApiContact
+        //{
+        //    Name = "John Walkner",
+        //    Email = "John.Walkner@gmail.com",
+        //    Url = new Uri("https://twitter.com/jwalkner"),
+        //},
+        //License = new OpenApiLicense
+        //{
+        //    Name = "Employee API LICX",
+        //    Url = new Uri("https://example.com/license"),
+        //}
     });
+    // Set the comments path for the Swagger JSON and UI.
+    var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+    c.IncludeXmlComments(xmlPath, includeControllerXmlComments: true);
+    c.EnableAnnotations();
 });
 
 #region Ioc
@@ -61,11 +68,17 @@ builder.Services.AddScoped<VillageService>();
 
 var app = builder.Build();
 
+app.UseStaticFiles();
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+        c.InjectStylesheet("/assets/swagger-style.css");
+    });
 }
 
 app.UseHttpsRedirection();

@@ -108,3 +108,4 @@ E:\project\Iranpl_developed_part3\Iranpl.Ioc\obj\Debug\net7.0\Iranpl.Ioc.dll
 E:\project\Iranpl_developed_part3\Iranpl.Ioc\obj\Debug\net7.0\refint\Iranpl.Ioc.dll
 E:\project\Iranpl_developed_part3\Iranpl.Ioc\obj\Debug\net7.0\Iranpl.Ioc.pdb
 E:\project\Iranpl_developed_part3\Iranpl.Ioc\obj\Debug\net7.0\ref\Iranpl.Ioc.dll
+E:\project\Iranpl_developed_part3\Iranpl.Ioc\obj\Debug\net7.0\Iranpl.Ioc.sourcelink.json

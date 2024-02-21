@@ -3,11 +3,13 @@ using Iranpl.ApplicationCore.Services.Implementations;
 using Iranpl.Domain.Models.ApiModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace Iranpl.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [SwaggerTag("(اطلاعات شهرهای ایران)")]
     public class CityController : ControllerBase
     {
         private readonly CityService _cityService;
@@ -16,7 +18,11 @@ namespace Iranpl.Api.Controllers
             _cityService = cityService;
         }
 
-        //GET ALL PART
+        //GET ALL CITY
+        /// <summary>
+        /// دریافت فهرست همه شهر های ایران
+        /// </summary>
+        /// <returns>فهرست شهر ها</returns>
         [HttpGet("getAll")]
         public IActionResult GetAllCity()
         {
@@ -30,7 +36,12 @@ namespace Iranpl.Api.Controllers
             return Ok(new { Message = "Get All Cities", Date = cityDto });
         }
 
-        //GET STATE BY ID
+        //GET CITY BY ID
+        /// <summary>
+        ///  (Id) جستجوی شهر با
+        /// </summary>
+        ///
+        /// <returns>شهر با (Id) مورد نظر</returns>
         [HttpPost]
         [Route("{id}")] //localhost:port/api/city/{id}
         public IActionResult GetCityById([FromRoute] int id)
@@ -55,6 +66,11 @@ namespace Iranpl.Api.Controllers
         }
 
         //GET CITY BY PART ID
+        /// <summary>
+        /// استان (Id) دریافت فهرست همه شهر های ایران با
+        /// </summary>
+        ///
+        /// <returns>شهر با (Id) مورد نظر</returns>
         [HttpPost("getCityByPartId/{partId}")] //localhost:port/api/township/getCityByPartId/{partid}
         public IActionResult GetCitiesByPartId(int partId=0)
         {

@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Iranpl.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Iranpl.Api.Controllers.CityController.GetAllCity">
+            <summary>
+            دریافت فهرست همه شهر های ایران
+            </summary>
+            <returns>فهرست شهر ها</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.CityController.GetCityById(System.Int32)">
+             <summary>
+              (Id) جستجوی شهر با
+             </summary>
+            
+             <returns>شهر با (Id) مورد نظر</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.CityController.GetCitiesByPartId(System.Int32)">
+             <summary>
+             استان (Id) دریافت فهرست همه شهر های ایران با
+             </summary>
+            
+             <returns>شهر با (Id) مورد نظر</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.PartController.GetAllParts">
+            <summary>
+            دریافت فهرست همه بخش های ایران
+            </summary>
+            <returns>فهرست بخش ها</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.PartController.GetPartById(System.Int32)">
+             <summary>
+              (Id) جستجوی بخش با
+             </summary>
+            
+             <returns>بخش با (Id) مورد نظر</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.PartController.GetPartsByTownshipId(System.Int32)">
+             <summary>
+             استان (Id) دریافت فهرست همه بخش های ایران با
+             </summary>
+            
+             <returns>بخش با (Id) مورد نظر</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.StateController.GetAllStates">
+            <summary>
+            دریافت فهرست همه استان های ایران
+            </summary>
+            <returns>فهرست استان ها</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.StateController.PostStateById(System.Int32)">
+             <summary>
+              (Id) جستجوی استان با
+             </summary>
+            
+             <returns>استان با (Id) مورد نظر</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.TownshipController.GetAllTownship">
+            <summary>
+            دریافت فهرست همه شهرستان های ایران
+            </summary>
+            <returns>فهرست شهرستان ها</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.TownshipController.PostTownshipById(System.Int32)">
+             <summary>
+              (Id) جستجوی شهرستان با
+             </summary>
+            
+             <returns>شهرستان با (Id) مورد نظر</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.TownshipController.GetTownshipsByStateId(System.Int32)">
+             <summary>
+             استان (Id) دریافت فهرست همه شهرستان های ایران با
+             </summary>
+            
+             <returns>شهرستان با (Id) مورد نظر</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.VillageController.GetVillageById(System.Int32)">
+             <summary>
+              (Id) جستجوی روستا با
+             </summary>
+            
+             <returns>روستا با (Id) مورد نظر</returns>
+        </member>
+        <member name="M:Iranpl.Api.Controllers.VillageController.GetVillagesByPartId(System.Int32)">
+             <summary>
+             استان (Id) دریافت فهرست همه روستاهای ایران با
+             </summary>
+            
+             <returns>روستا با (Id) مورد نظر</returns>
+        </member>
+    </members>
+</doc>

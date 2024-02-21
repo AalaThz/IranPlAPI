@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "FfScXRfzFNmN6266VjqYscCIZzy4vWDY7hM2jdLm9IQ=",
+  "Hash": "CMjwVbXtWFlPMdi0CER4THfOGYqfMIwWK3DfuCP/jIw=",
   "Source": "Iranpl.Api",
   "BasePath": "_content/Iranpl.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Iranpl.Api\\wwwroot",
+      "Source": "Iranpl.Api",
+      "ContentRoot": "E:\\project\\Iranpl_developed_part3\\Iranpl.Api\\wwwroot\\",
+      "BasePath": "_content/Iranpl.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\project\\Iranpl_developed_part3\\Iranpl.Api\\wwwroot\\assets\\swagger-style.css",
+      "SourceId": "Iranpl.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\project\\Iranpl_developed_part3\\Iranpl.Api\\wwwroot\\",
+      "BasePath": "_content/Iranpl.Api",
+      "RelativePath": "assets/swagger-style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\swagger-style.css"
+    }
+  ]
 }

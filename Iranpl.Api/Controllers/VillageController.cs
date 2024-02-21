@@ -4,12 +4,14 @@ using Iranpl.ApplicationCore.Services.Implementations;
 using Iranpl.Domain.Models.ApiModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 using System.ComponentModel;
 
 namespace Iranpl.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [SwaggerTag("(اطلاعات روستاهای ایران)")]
     public class VillageController : ControllerBase
     {
         private readonly VillageService _villageService;
@@ -18,7 +20,12 @@ namespace Iranpl.Api.Controllers
         {
             _villageService = villageService;
         }
-
+        //GET VILLAGE BY ID
+        /// <summary>
+        ///  (Id) جستجوی روستا با
+        /// </summary>
+        ///
+        /// <returns>روستا با (Id) مورد نظر</returns>
         [HttpPost]
         [Route("{id}")] //localhost:port/api/village/{id}
         public IActionResult GetVillageById([FromRoute] int id)
@@ -43,7 +50,12 @@ namespace Iranpl.Api.Controllers
             return Ok(new { Message = "The Village was found", Date = villageDto });
         }
 
-        //GET CITY BY PART ID
+        //GET VILLAGE BY PART ID
+        /// <summary>
+        /// استان (Id) دریافت فهرست همه روستاهای ایران با
+        /// </summary>
+        ///
+        /// <returns>روستا با (Id) مورد نظر</returns>
         [HttpPost("getVillageByPartId/{partId}")] //localhost:port/api/township/getVillagesByPartId/{partid}
         
         public IActionResult GetVillagesByPartId(int partId)

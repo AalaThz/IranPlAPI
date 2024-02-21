@@ -426,3 +426,7 @@ E:\project\Iranpl_developed_part3\Iranpl.Api\obj\Debug\net7.0\refint\Iranpl.Api.
 E:\project\Iranpl_developed_part3\Iranpl.Api\obj\Debug\net7.0\Iranpl.Api.pdb
 E:\project\Iranpl_developed_part3\Iranpl.Api\obj\Debug\net7.0\Iranpl.Api.genruntimeconfig.cache
 E:\project\Iranpl_developed_part3\Iranpl.Api\obj\Debug\net7.0\ref\Iranpl.Api.dll
+E:\project\Iranpl_developed_part3\Iranpl.Api\obj\Debug\net7.0\Iranpl.Api.sourcelink.json
+E:\project\Iranpl_developed_part3\Iranpl.Api\bin\Debug\net7.0\Iranpl.Api.xml
+E:\project\Iranpl_developed_part3\Iranpl.Api\obj\Debug\net7.0\Iranpl.Api.xml
+E:\project\Iranpl_developed_part3\Iranpl.Api\bin\Debug\net7.0\Iranpl.Api.staticwebassets.runtime.json
