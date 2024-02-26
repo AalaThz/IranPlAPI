@@ -24,7 +24,7 @@ namespace Iranpl.Api.Controllers
         /// <summary>
         ///  (Id) جستجوی روستا با
         /// </summary>
-        ///
+        ///<param name="id">هر روستا است VillageCode نشان دهنده id  </param>
         /// <returns>روستا با (Id) مورد نظر</returns>
         [HttpPost]
         [Route("{id}")] //localhost:port/api/village/{id}
@@ -45,7 +45,7 @@ namespace Iranpl.Api.Controllers
             {
                 VillageCode = village.VillageCode,
                 VillageName = village.VillageName,
-                PartCode = village.VillageCode, 
+                PartCode = village.PartCode, 
             };
             return Ok(new { Message = "The Village was found", Date = villageDto });
         }
@@ -54,7 +54,7 @@ namespace Iranpl.Api.Controllers
         /// <summary>
         /// استان (Id) دریافت فهرست همه روستاهای ایران با
         /// </summary>
-        ///
+        ///<param name="partId">هر بخش است partCode نشان دهنده partId  </param>
         /// <returns>روستا با (Id) مورد نظر</returns>
         [HttpPost("getVillageByPartId/{partId}")] //localhost:port/api/township/getVillagesByPartId/{partid}
         
@@ -74,7 +74,7 @@ namespace Iranpl.Api.Controllers
             {
                 VillageCode = v.VillageCode,
                 VillageName = v.VillageName,
-                PartCode = v.VillageCode,
+                PartCode = v.PartCode,
             }).ToList();
 
             return Ok(new { Message = "The Village was found by Part id", DateOnly = villageDto });

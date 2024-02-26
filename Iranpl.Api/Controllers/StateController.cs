@@ -45,7 +45,7 @@ namespace Iranpl.Api.Controllers
         /// <summary>
         ///  (Id) جستجوی استان با
         /// </summary>
-        ///
+        ///<param name="id">هر استان است statecode نشان دهنده id  </param>
         /// <returns>استان با (Id) مورد نظر</returns>
         [HttpPost]
         [Route("{id}")] //localhost:port/api/state/{id}

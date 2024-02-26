@@ -45,7 +45,7 @@ namespace Iranpl.Api.Controllers
         /// <summary>
         ///  (Id) جستجوی بخش با
         /// </summary>
-        ///
+        ///<param name="id">هر بخش است partcode نشان دهنده id  </param>
         /// <returns>بخش با (Id) مورد نظر</returns>
         [HttpPost]
         [Route("{id}")] //localhost:port/api/part/{id}
@@ -74,7 +74,7 @@ namespace Iranpl.Api.Controllers
         /// <summary>
         /// استان (Id) دریافت فهرست همه بخش های ایران با
         /// </summary>
-        ///
+        ///<param name="townshipId">هر شهرستان است TownshipCode نشان دهنده townshipId  </param>
         /// <returns>بخش با (Id) مورد نظر</returns>
         [HttpPost("getPartByTownshipId/{townshipId}")] //localhost:port/api/township/getPartByTownshipId/{townshipId}
         public IActionResult GetPartsByTownshipId(int townshipId)

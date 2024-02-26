@@ -44,7 +44,7 @@ namespace Iranpl.Api.Controllers
         /// <summary>
         ///  (Id) جستجوی شهرستان با
         /// </summary>
-        ///
+        ///<param name="id">هر شهرستان است townshipcode نشان دهنده id  </param>
         /// <returns>شهرستان با (Id) مورد نظر</returns>
         [HttpPost]
         [Route("{id}")] //localhost:port/api/township/{id}
@@ -74,7 +74,7 @@ namespace Iranpl.Api.Controllers
         /// <summary>
         /// استان (Id) دریافت فهرست همه شهرستان های ایران با
         /// </summary>
-        ///
+        ///<param name="stateId"> هر شهرستان است statecode نشان دهنده stateid</param>
         /// <returns>شهرستان با (Id) مورد نظر</returns>
         [HttpPost("getTownshipsByStateId/{stateId}")]//localhost:port/api/township/GetTownshipsByStateId/{stateid}
         public IActionResult GetTownshipsByStateId([FromRoute] int stateId)

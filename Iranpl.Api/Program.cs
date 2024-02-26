@@ -40,6 +40,10 @@ builder.Services.AddSwaggerGen(c =>
         //    Url = new Uri("https://example.com/license"),
         //}
     });
+
+    // Add more versions if needed
+    //c.SwaggerDoc("v2", new OpenApiInfo { Title = "My API", Version = "v2" });
+
     // Set the comments path for the Swagger JSON and UI.
     var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
     var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
@@ -77,6 +81,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+        // Add more endpoints for other versions if needed
+        //c.SwaggerEndpoint("/swagger/v2/swagger.json", "My API V2");
         c.InjectStylesheet("/assets/swagger-style.css");
     });
 }

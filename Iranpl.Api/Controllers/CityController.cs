@@ -40,7 +40,7 @@ namespace Iranpl.Api.Controllers
         /// <summary>
         ///  (Id) جستجوی شهر با
         /// </summary>
-        ///
+        ///<param name="id">هر شهر است CityCode نشان دهنده id  </param>
         /// <returns>شهر با (Id) مورد نظر</returns>
         [HttpPost]
         [Route("{id}")] //localhost:port/api/city/{id}
@@ -69,7 +69,7 @@ namespace Iranpl.Api.Controllers
         /// <summary>
         /// استان (Id) دریافت فهرست همه شهر های ایران با
         /// </summary>
-        ///
+        ///<param name="partId">هر بخش است partCode نشان دهنده partId  </param>
         /// <returns>شهر با (Id) مورد نظر</returns>
         [HttpPost("getCityByPartId/{partId}")] //localhost:port/api/township/getCityByPartId/{partid}
         public IActionResult GetCitiesByPartId(int partId=0)
