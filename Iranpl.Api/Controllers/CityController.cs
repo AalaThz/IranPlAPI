@@ -1,5 +1,5 @@
-﻿using Iranpl.ApplicationCore.Services.DTO.City;
-using Iranpl.ApplicationCore.Services.Implementations;
+﻿using Iranpl.ApplicationCore.Services.DTO.Geographical;
+using Iranpl.ApplicationCore.Services.Implementations.Geographical;
 using Iranpl.Domain.Models.ApiModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

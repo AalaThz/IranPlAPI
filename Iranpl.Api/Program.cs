@@ -1,9 +1,21 @@
 ﻿using Iranpl.Api.Controllers;
-using Iranpl.ApplicationCore.Services.Implementations;
-using Iranpl.ApplicationCore.Services.Intefaces;
+using Iranpl.ApplicationCore.Services.Implementations.Geographical;
+using Iranpl.ApplicationCore.Services.Implementations.Messages;
+using Iranpl.ApplicationCore.Services.Implementations.Search;
+using Iranpl.ApplicationCore.Services.Intefaces.Geographical;
+using Iranpl.ApplicationCore.Services.Intefaces.Logins;
+using Iranpl.ApplicationCore.Services.Intefaces.Messages;
+using Iranpl.ApplicationCore.Services.Intefaces.Search;
+using Iranpl.ApplicationCore.Services.Intefaces.Test;
+using Iranpl.Infrastructure.Data.IranplContext;
 using Iranpl.Infrastructure.Data.IranPlDbContext;
 using Iranpl.Infrastructure.Repositories;
+using Iranpl.Infrastructure.Repositories.Geographical;
+using Iranpl.Infrastructure.Repositories.Logins;
+using Iranpl.Infrastructure.Repositories.Message;
+using Iranpl.Infrastructure.Repositories.Search;
 using Iranpl.Ioc;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
@@ -17,7 +29,22 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<ApiContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("ApiDatabase")));
+builder.Services.AddDbContext<GeographicalApiContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("GeographicalApiConnection")));
+builder.Services.AddDbContext<SearchListsApiContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("SearchApiDatabase")));
+
+#region Authentication
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+    options.DefaultSignInScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+}).AddCookie(options =>
+{
+    options.LoginPath = "/Login";
+    options.LogoutPath = "/";
+    options.ExpireTimeSpan = TimeSpan.FromMinutes(60);
+});
+#endregion
 
 // Register the Swagger generator, defining 1 or more Swagger documents
 builder.Services.AddSwaggerGen(c =>
@@ -40,9 +67,6 @@ builder.Services.AddSwaggerGen(c =>
         //    Url = new Uri("https://example.com/license"),
         //}
     });
-
-    // Add more versions if needed
-    //c.SwaggerDoc("v2", new OpenApiInfo { Title = "My API", Version = "v2" });
 
     // Set the comments path for the Swagger JSON and UI.
     var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
@@ -68,6 +92,18 @@ builder.Services.AddScoped<CityService>();
 builder.Services.AddScoped<IVillageRepository, VillageRepository>();
 builder.Services.AddScoped<VillageService>();
 
+builder.Services.AddScoped<ISearchApiRepository,SearchListApiRepository>();
+builder.Services.AddScoped<FehrestSearchService>();
+
+builder.Services.AddScoped<IMassageListRepository,MessageListApiRepository>();
+builder.Services.AddScoped<MessageListApiService>();
+
+builder.Services.AddScoped<ITestLogin, TestLoginRepository>();
+
+builder.Services.AddScoped<ILoginRepository, LoginRepository>();
+
+
+
 #endregion
 
 var app = builder.Build();
@@ -77,6 +113,7 @@ app.UseStaticFiles();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.UseDeveloperExceptionPage();
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
@@ -88,6 +125,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

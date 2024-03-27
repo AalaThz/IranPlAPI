@@ -1,6 +1,5 @@
-﻿using Iranpl.ApplicationCore.Services.DTO.Part;
-using Iranpl.ApplicationCore.Services.DTO.Township;
-using Iranpl.ApplicationCore.Services.Implementations;
+﻿using Iranpl.ApplicationCore.Services.DTO.Geographical;
+using Iranpl.ApplicationCore.Services.Implementations.Geographical;
 using Iranpl.Domain.Models.ApiModels;
 using Iranpl.Infrastructure.Data.IranPlDbContext;
 using Microsoft.AspNetCore.Http;

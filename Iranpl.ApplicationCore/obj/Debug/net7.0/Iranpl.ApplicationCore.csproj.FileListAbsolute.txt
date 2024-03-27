@@ -1,78 +1,3 @@
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.deps.json
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.Domain.dll
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.Domain.pdb
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.AssemblyReference.cache
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfoInputs.cache
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfo.cs
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CoreCompileInputs.cache
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CopyComplete
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.dll
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\refint\Iranpl.ApplicationCore.dll
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.pdb
-C:\Users\fahimi.b\source\repos\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\ref\Iranpl.ApplicationCore.dll
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.deps.json
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.Domain.dll
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.Domain.pdb
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.AssemblyReference.cache
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfoInputs.cache
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfo.cs
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CoreCompileInputs.cache
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CopyComplete
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.dll
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\refint\Iranpl.ApplicationCore.dll
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.pdb
-C:\Users\taherzadeh.a\Desktop\Iranpl\Iranpl.ApplicationCore\obj\Debug\net7.0\ref\Iranpl.ApplicationCore.dll
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.deps.json
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.Domain.dll
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.Domain.pdb
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.AssemblyReference.cache
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfoInputs.cache
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfo.cs
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CoreCompileInputs.cache
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CopyComplete
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.dll
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\obj\Debug\net7.0\refint\Iranpl.ApplicationCore.dll
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.pdb
-E:\project\Iranpl - Copy\Iranpl.ApplicationCore\obj\Debug\net7.0\ref\Iranpl.ApplicationCore.dll
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.deps.json
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.Domain.dll
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.Domain.pdb
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.AssemblyReference.cache
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfoInputs.cache
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfo.cs
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CoreCompileInputs.cache
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CopyComplete
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.dll
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\obj\Debug\net7.0\refint\Iranpl.ApplicationCore.dll
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.pdb
-E:\project\Iranpl_developed\Iranpl.ApplicationCore\obj\Debug\net7.0\ref\Iranpl.ApplicationCore.dll
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.deps.json
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.Domain.dll
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.Domain.pdb
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.AssemblyReference.cache
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfoInputs.cache
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfo.cs
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CoreCompileInputs.cache
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CopyComplete
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.dll
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\obj\Debug\net7.0\refint\Iranpl.ApplicationCore.dll
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.pdb
-E:\project\Iranpl_developed_part2\Iranpl.ApplicationCore\obj\Debug\net7.0\ref\Iranpl.ApplicationCore.dll
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.deps.json
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.dll
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\bin\Debug\net7.0\Iranpl.ApplicationCore.pdb
@@ -83,9 +8,9 @@ E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfoInputs.cache
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.AssemblyInfo.cs
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CoreCompileInputs.cache
+E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.sourcelink.json
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.csproj.CopyComplete
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.dll
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\refint\Iranpl.ApplicationCore.dll
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.pdb
 E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\ref\Iranpl.ApplicationCore.dll
-E:\project\Iranpl_developed_part3\Iranpl.ApplicationCore\obj\Debug\net7.0\Iranpl.ApplicationCore.sourcelink.json

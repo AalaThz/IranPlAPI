@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iranpl.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e90c09f7e40e20b77a93cb4d7e9a4a0e0e502b49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97352c502f58933d44ba8c7e698856137c8d0ae3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iranpl.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iranpl.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
