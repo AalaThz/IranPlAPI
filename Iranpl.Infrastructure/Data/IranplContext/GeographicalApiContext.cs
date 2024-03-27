@@ -10,7 +10,7 @@ namespace Iranpl.Infrastructure.Data.IranPlDbContext
 {
     public class GeographicalApiContext : DbContext
     {
-        public GeographicalApiContext(DbContextOptions dbContextOptions) : base(dbContextOptions)
+        public GeographicalApiContext(DbContextOptions<GeographicalApiContext> dbContextOptions) : base(dbContextOptions)
         {
 
         }

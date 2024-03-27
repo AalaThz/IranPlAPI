@@ -1,6 +1,5 @@
 ﻿using Azure.Core;
 using Iranpl.ApplicationCore.Services.Implementations.Messages;
-using Iranpl.Domain.Models.Message;
 using Iranpl.Domain.ViewModel.Users;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
@@ -45,16 +44,21 @@ namespace Iranpl.Api.Controllers
                 Guid id = Guid.Parse(User.Claims.FirstOrDefault(c => c.Type == "UserId").Value ?? Guid.NewGuid().ToString());
                 string token = User.Claims.FirstOrDefault(c => c.Type == "Token").Value;
 
-                List<MsgListResult> list = await _listRepository.GetAllMsgList(token);
+                List<MessageContainer> list = await _listRepository.GetAllMsgList(token);
+                return Ok(list) ;
             }
-                return Ok();
+
+            else
+            {
+                return BadRequest();
+            }
             ////MessageListResult result = new MessageListResult()
             ////{
             ////    StatusPhrase = "ok",
             ////    Status = 1,
             ////    MessageContainers = _listRepository.GetAllMsgList(id),
             ////};
-            
+
             //// Serialize the result object to JSON
             //string json = JsonSerializer.Serialize(result);
 
@@ -64,10 +68,7 @@ namespace Iranpl.Api.Controllers
             //// Create a new OkObjectResult with the JSON content
             //return new OkObjectResult(jsonDoc.RootElement);
             //}
-            //else
-            //{
-            //    return BadRequest();
-            //}
+
         }
     }
 }

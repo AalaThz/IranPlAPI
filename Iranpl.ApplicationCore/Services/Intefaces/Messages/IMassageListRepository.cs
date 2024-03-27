@@ -1,4 +1,4 @@
-﻿using Iranpl.Domain.Models.Message;
+﻿
 using Iranpl.Domain.ViewModel.Users;
 using System;
 using System.Collections.Generic;
@@ -10,6 +10,6 @@ namespace Iranpl.ApplicationCore.Services.Intefaces.Messages
 {
     public interface IMassageListRepository
     {
-       Task<List<MsgListResult>> GetAllMsgList(string token);
+       Task<List<MessageContainer>> GetAllMsgList(string token);
     }
 }

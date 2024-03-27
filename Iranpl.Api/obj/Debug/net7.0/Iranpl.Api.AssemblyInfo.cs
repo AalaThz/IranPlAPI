@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iranpl.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97352c502f58933d44ba8c7e698856137c8d0ae3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e0bdad9be9aa5176b3a0c46cfcc010f3b5ca947")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iranpl.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iranpl.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

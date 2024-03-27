@@ -4,87 +4,87 @@
         <name>Iranpl.Api</name>
     </assembly>
     <members>
-        <member name="M:Iranpl.Api.Controllers.CityController.GetAllCity">
+        <member name="M:Iranpl.Api.Controllers.Geographical.CityController.GetAllCity">
             <summary>
             دریافت فهرست همه شهر های ایران
             </summary>
             <returns>فهرست شهر ها</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.CityController.GetCityById(System.Int32)">
+        <member name="M:Iranpl.Api.Controllers.Geographical.CityController.GetCityById(System.Int32)">
              <summary>
               (Id) جستجوی شهر با
              </summary>
             <param name="id">هر شهر است CityCode نشان دهنده id  </param>
              <returns>شهر با (Id) مورد نظر</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.CityController.GetCitiesByPartId(System.Int32)">
+        <member name="M:Iranpl.Api.Controllers.Geographical.CityController.GetCitiesByPartId(System.Int32)">
              <summary>
              استان (Id) دریافت فهرست همه شهر های ایران با
              </summary>
             <param name="partId">هر بخش است partCode نشان دهنده partId  </param>
              <returns>شهر با (Id) مورد نظر</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.PartController.GetAllParts">
+        <member name="M:Iranpl.Api.Controllers.Geographical.PartController.GetAllParts">
             <summary>
             دریافت فهرست همه بخش های ایران
             </summary>
             <returns>فهرست بخش ها</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.PartController.GetPartById(System.Int32)">
+        <member name="M:Iranpl.Api.Controllers.Geographical.PartController.GetPartById(System.Int32)">
              <summary>
               (Id) جستجوی بخش با
              </summary>
             <param name="id">هر بخش است partcode نشان دهنده id  </param>
              <returns>بخش با (Id) مورد نظر</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.PartController.GetPartsByTownshipId(System.Int32)">
+        <member name="M:Iranpl.Api.Controllers.Geographical.PartController.GetPartsByTownshipId(System.Int32)">
              <summary>
              استان (Id) دریافت فهرست همه بخش های ایران با
              </summary>
             <param name="townshipId">هر شهرستان است TownshipCode نشان دهنده townshipId  </param>
              <returns>بخش با (Id) مورد نظر</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.StateController.GetAllStates">
+        <member name="M:Iranpl.Api.Controllers.Geographical.StateController.GetAllStates">
             <summary>
             دریافت فهرست همه استان های ایران
             </summary>
             <returns>فهرست استان ها</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.StateController.PostStateById(System.Int32)">
+        <member name="M:Iranpl.Api.Controllers.Geographical.StateController.PostStateById(System.Int32)">
              <summary>
               (Id) جستجوی استان با
              </summary>
             <param name="id">هر استان است statecode نشان دهنده id  </param>
              <returns>استان با (Id) مورد نظر</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.TownshipController.GetAllTownship">
+        <member name="M:Iranpl.Api.Controllers.Geographical.TownshipController.GetAllTownship">
             <summary>
             دریافت فهرست همه شهرستان های ایران
             </summary>
             <returns>فهرست شهرستان ها</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.TownshipController.PostTownshipById(System.Int32)">
+        <member name="M:Iranpl.Api.Controllers.Geographical.TownshipController.PostTownshipById(System.Int32)">
              <summary>
               (Id) جستجوی شهرستان با
              </summary>
             <param name="id">هر شهرستان است townshipcode نشان دهنده id  </param>
              <returns>شهرستان با (Id) مورد نظر</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.TownshipController.GetTownshipsByStateId(System.Int32)">
+        <member name="M:Iranpl.Api.Controllers.Geographical.TownshipController.GetTownshipsByStateId(System.Int32)">
              <summary>
              استان (Id) دریافت فهرست همه شهرستان های ایران با
              </summary>
             <param name="stateId"> هر شهرستان است statecode نشان دهنده stateid</param>
              <returns>شهرستان با (Id) مورد نظر</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.VillageController.GetVillageById(System.Int32)">
+        <member name="M:Iranpl.Api.Controllers.Geographical.VillageController.GetVillageById(System.Int32)">
              <summary>
               (Id) جستجوی روستا با
              </summary>
             <param name="id">هر روستا است VillageCode نشان دهنده id  </param>
              <returns>روستا با (Id) مورد نظر</returns>
         </member>
-        <member name="M:Iranpl.Api.Controllers.VillageController.GetVillagesByPartId(System.Int32)">
+        <member name="M:Iranpl.Api.Controllers.Geographical.VillageController.GetVillagesByPartId(System.Int32)">
              <summary>
              استان (Id) دریافت فهرست همه روستاهای ایران با
              </summary>

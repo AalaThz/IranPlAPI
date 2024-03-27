@@ -6,7 +6,6 @@ using Iranpl.ApplicationCore.Services.Intefaces.Geographical;
 using Iranpl.ApplicationCore.Services.Intefaces.Logins;
 using Iranpl.ApplicationCore.Services.Intefaces.Messages;
 using Iranpl.ApplicationCore.Services.Intefaces.Search;
-using Iranpl.ApplicationCore.Services.Intefaces.Test;
 using Iranpl.Infrastructure.Data.IranplContext;
 using Iranpl.Infrastructure.Data.IranPlDbContext;
 using Iranpl.Infrastructure.Repositories;
@@ -97,8 +96,6 @@ builder.Services.AddScoped<FehrestSearchService>();
 
 builder.Services.AddScoped<IMassageListRepository,MessageListApiRepository>();
 builder.Services.AddScoped<MessageListApiService>();
-
-builder.Services.AddScoped<ITestLogin, TestLoginRepository>();
 
 builder.Services.AddScoped<ILoginRepository, LoginRepository>();
 
